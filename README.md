@@ -1,15 +1,15 @@
-# Reponux
-Repository to my linux
+# Sysinfo
+Repository for my Linux
 
-## Instalacja
+## Installation
 
-Pobierz i zainstaluj skrypt:
+Download and install the script:
 
 ```bash
 sudo wget https://raw.githubusercontent.com/kacper010211/Reponux/main/sysinfo.sh -O /usr/local/bin/sysinfo && sudo chmod +x /usr/local/bin/sysinfo
 ```
 
-Teraz możesz uruchomić:
+Now you can run:
 
 ```bash
 sysinfo
